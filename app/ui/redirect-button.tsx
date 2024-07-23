@@ -14,7 +14,7 @@ export const RedirectButton: FC<RedirectButtonProps> = ({ className }) => {
           "block w-max bg-primary font-bold text-lg text-white py-2 px-8 rounded-full"
         }
       >
-        ¡Quiero invertir!
+        ¡SUSCRÍBETE!
       </Link>
     </div>
   );
